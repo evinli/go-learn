@@ -31,6 +31,12 @@ Jotting down some code + notes as I learn go for the first time!
     - `23.322` -> float64
     - `34.32 + 0.63i` -> complex128
 
+- `const Hi = 5` for constants, cannot be declared by `:=`
+- `for i := 0; i < 10; i++ { }` for loop syntax
+- A while loop is just `for sum < 100 { }`
+- While true loop is just `for { }`
+
+
 
 
 
