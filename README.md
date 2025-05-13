@@ -1,5 +1,5 @@
 # go-learn
-Some notes on Go syntax that I found interesting / thought would be useful for later !!
+Jotting down some code + notes from learning go!
 
 ### May 13th
 - Creating a Go project: https://go-zero.dev/en/docs/tasks/create/project/from/vscode
