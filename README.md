@@ -1,5 +1,5 @@
 # go-learn
-Jotting down some code + notes from learning go!
+Jotting down some code + notes as I learn go for the first time!
 
 ### May 13th
 - Creating a Go project: https://go-zero.dev/en/docs/tasks/create/project/from/vscode
